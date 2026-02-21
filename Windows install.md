@@ -1,17 +1,15 @@
 ## Создание загрузочной флешки:
 
-Заходим на сайт:
+1. Заходим на сайт. Выбераем Download Windows 11 Disk Image (ISO) for x64 devices:
 https://www.microsoft.com/en-us/software-download/windows11
 
-Выбераем Download Windows 11 Disk Image (ISO) for x64 devices. 
+2. Cкачиваем xml файл с конфигурацие установки autounattend.xml (прикреплен в репо).
 
-Cкачиваем xml файл с конфигурацие установки autounattend.xml (прикреплен в репо), устанавливаем AnyBurn:
+3. Устанавливаем AnyBur. Внутри AnyBurn нажимаем Edit image, выбераем наш образ и добавляем в него наш файл:
 https://www.anyburn.com/download.php
 
-Внутри AnyBurn нажимаем Edit image, выбераем наш образ и добавляем в него наш файл. После этого скачиваем Rufus:
+4. Скачиваем Rufus. Выбераем флешку не меньше 8гб, выбераем наш образ и запускаем:
 https://rufus.ie/ru/
-
-В нем выбераем флешку не меньше 8гб, выбераем наш образ и запускаем.
 
 ---
 ## Установка Windows с загрузочной флешки:
