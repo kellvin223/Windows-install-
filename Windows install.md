@@ -44,7 +44,7 @@ WinRar - https://www.win-rar.com/start.html?&L=4
 
 Драйвера:
 - Nvidia - https://www.nvidia.com/en-us/drivers/
-- 
+- TP-Link - https://www.tp-link.com/en/support/download/tl-wn722n/#Driver
 
 ---
 ## Доп настройки
